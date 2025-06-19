@@ -1,1 +1,0 @@
-# Retail_Sale_SQL_Project
